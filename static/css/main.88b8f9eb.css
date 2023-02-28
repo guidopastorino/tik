@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}html{height:-webkit-fill-available}body{height:100vh;height:-webkit-fill-available;overflow:hidden}#root{height:100%}.active>:first-child{display:none}.active>:last-child,.unactive>:first-child{display:block}.unactive>:last-child{display:none}
+/*# sourceMappingURL=main.88b8f9eb.css.map*/
